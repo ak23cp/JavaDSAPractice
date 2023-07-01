@@ -28,7 +28,7 @@ public class SquaresOfASortedArray {
 
         Arrays.sort(nums);
 
-        System.out.println("\nAfter array square and sorting: ");
+        System.out.println("\nAfter array square and sorting : ");
 
         System.out.println(Arrays.toString(nums));
     }
