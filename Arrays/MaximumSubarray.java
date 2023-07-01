@@ -52,7 +52,7 @@ public class MaximumSubarray {
             }
 
         }
-        System.out.println("Maximum Subarray is : " + max);
+        System.out.println("Maximum Subarray is :  " + max);
 
     }
 
