@@ -1,0 +1,5 @@
+1.git status
+2.git add  Arrays/MaximumSubarray.java
+3.git status
+4.git commit -m "2.Squares Of A Sorted Array"
+5.git push -u origin main    
